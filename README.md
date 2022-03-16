@@ -64,8 +64,3 @@ It can be extended to utilize many-to-many relationship b/w Shoe and PurchaseRep
 
 Also for admin authentication spring-security-starter has been used with credentials saved in `application.properties` file.
 
-## Docs
-For complete docs please use the docs folder in project directory.
-
-Or Visit:[Docs Website](https://manish-baghel.github.io/sporty_shoes/)
-‰
